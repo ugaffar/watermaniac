@@ -1,20 +1,21 @@
-# Watermaniac
+# Watermaniac - Hydration Tracker App
 
-![Screenshot](/images/watermaniac.jpeg)
+Watermaniac is a simple Flutter app that helps users track their daily water intake. Clean design and practical UI make it ideal for showcasing health/wellness mobile app development.
 
-We may not think of it, but water can have a large impact on our overall and day-to-day health. As I’m sure you may know, it is important to hydrate regularly in order to preserve adequate mental and physical functions. Many of us do not pay attention to how much water we are drinking and how this can be affecting how we feel and what is happening inside of our bodies.
+## 💧 Features
+- Set daily water intake goal
+- Add water entries easily
+- Track water history
+- Daily notifications/reminders
+- Local data storage
 
-Most of us ' do' drink water but... do you drink enough? Do you want to make sure you are doing your best to stay healthy? It is time to start tracking how much water you have drunk every day.
+## 💼 My Role
+I’ve forked this open-source app and customized it to show:
+- Health/wellness app UI in Flutter
+- User-friendly interface
+- Offline-first mobile storage
+- Notification logic
 
-Watermaniac is an app that will help you track the amount of water you drink.
-
-Features:
-- Set a daily goal of water
-- A history of all drink you took (and logged)
-- Customizable notifications to remind you about drinking
-
-It is simple, lightweight and built with Google Flutter. Only core functionalities.
-
-## Getting Started
-
-[✓] Flutter (Channel stable, v1.12.13+hotfix.5
+## 📬 Contact
+Need a health or wellness app? Let’s work together:  
+👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
