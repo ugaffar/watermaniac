@@ -16,6 +16,3 @@ I’ve forked this open-source app and customized it to show:
 - Offline-first mobile storage
 - Notification logic
 
-## 📬 Contact
-Need a health or wellness app? Let’s work together:  
-👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
